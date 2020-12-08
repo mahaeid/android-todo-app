@@ -1,5 +1,5 @@
 <!-- 
-    Couple of points about editing:
+    Couple of points about edcvcvcviting:
     
     1. Keep it SIMPLE.
     2. Refer to reference docs and other external sources when possible.
