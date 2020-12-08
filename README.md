@@ -11,7 +11,7 @@
 -->
 
 <!-- Put your project's name -->
-# Android todo app - Room sample project
+# Android todo app - Room sample projectbvvbvbbvvbvb
 ![alt tag](https://github.com/netguru/android-todo-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 ## Synopsis
 <!-- Describe the project in few sentences -->
